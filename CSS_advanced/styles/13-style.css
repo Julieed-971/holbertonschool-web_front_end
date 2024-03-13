@@ -45,15 +45,15 @@ a:link {
 	text-decoration: none;
 }
 
-:visited {
+a:visited {
 	font-style: italic;
 }
 
-:hover {
+a:hover {
 	text-decoration: underline;
 }
 
-:active {
+a:active {
 	color: var(--color-light-grey);
 }
 
