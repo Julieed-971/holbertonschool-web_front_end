@@ -76,32 +76,21 @@ a:active {
 }
 
 .section {
-	padding-left: var(--section-padding);
-	padding-top: var(--section-padding);
-	padding-right: var(--section-padding);
-	padding-bottom: var(--section-padding);
+	padding: var(--section-padding);
 }
 .section-header {
 	text-align: var(--section-header-align);
-	padding-left: var(--section-header-padding);
-	padding-top: var(--section-header-padding);
-	padding-right: var(--section-header-padding);
-	padding-bottom: var(--section-header-padding);
+	padding: var(--section-header-padding);
 }
 
 .section-body {
-	padding-left: var(--section-body-padding);
-	padding-top: var(--section-body-padding);
-	padding-right: var(--section-body-padding);
-	padding-bottom: var(--section-body-padding);
-	margin: var(--section-footer-align);
+	padding: var(--section-body-padding);
 }
 
 .section-footer {
-	padding-left: var(--section-footer-padding);
-	padding-top: var(--section-footer-padding);
-	padding-right: var(--section-footer-padding);
-	padding-bottom: var(--section-footer-padding);
+	padding: var(--section-footer-padding);
+	margin: var(--section-footer-align);
+
 }
 .section-title {
 	font-family: var(--font-family-title);
@@ -135,10 +124,7 @@ h6 {
 }
 
 .footer {
-	padding-left: var(--footer-padding);
-	padding-top: var(--footer-padding);
-	padding-right: var(--footer-padding);
-	padding-bottom: var(--footer-padding);
+	padding: var(--footer-padding);
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
