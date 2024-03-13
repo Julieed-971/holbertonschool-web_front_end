@@ -68,6 +68,7 @@ body {
 	padding: 0;
 	list-style: none;
 	text-align: center;
+}
 
 .nav-item {
 	font-family: var(--nav-item-font-family);
@@ -85,7 +86,6 @@ body {
 
 .nav-link:hover {
 	color: var(--nav-item-link-hover);
-}
 }
 
 a:link {
