@@ -188,7 +188,7 @@ ul.row {
 	display: block;
 }
 
-.svg.social-link {
+.social-link.svg {
 	fill: var(--text-color);
 }
 
