@@ -129,7 +129,7 @@ body {
 	background-color: var(--color-white);
 	width: 0;
 	height: 0.2rem;
-	transition-property: var(--transition-duration), var(--transition-cubic-bezier);
+	transition-property: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .nav .nav-link:hover {
