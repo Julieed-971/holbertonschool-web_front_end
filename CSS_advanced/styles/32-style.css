@@ -172,7 +172,7 @@ a:active {
 	text-decoration: var(--button-hover-text-decoration);
 	background: var(--button-hover-background);
 	transition: var(--transition-duration);
-	transition-property: color, background-color;
+	transition-property: color, background;
 }
 
 .visually-hidden {
