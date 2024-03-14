@@ -185,7 +185,7 @@ ul.row {
 }
 
 .social-link {
-	display: block;
+	display: inline-block;
 }
 
 .svg.social-link {
