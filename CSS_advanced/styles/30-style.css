@@ -197,7 +197,7 @@ a:active {
 	z-index: 1;
 }
 
-.card-work:hover > .card-inner {
+.card-work:hover .card-inner {
 	background-color: rgba(0, 0, 0, 0.7);
 }
 
@@ -224,7 +224,7 @@ a:active {
 	content: "";
 }
 
-.card-work:hover > .card-title {
+.card-work:hover .card-title {
 	opacity: 1;
 }
 
