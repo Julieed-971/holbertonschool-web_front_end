@@ -152,7 +152,7 @@ a:active {
 .row::after {
 	content: none;
 	display: table;
-	clear: none;
+	clear: both;
 }
 
 ul.row {
