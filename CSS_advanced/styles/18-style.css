@@ -59,6 +59,10 @@ body {
 	line-height: var(--line-height-base);
 }
 
+.navbar-menu {
+	float: right;
+}
+
 .nav {
 	margin: 0;
 	padding: 0;
@@ -85,7 +89,6 @@ body {
 }
 
 a:link {
-	float: right;
 	color: var(--text-color);
 	text-decoration: none;
 }
