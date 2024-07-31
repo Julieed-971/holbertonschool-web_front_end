@@ -183,6 +183,10 @@ Go to https://dev-tools.hbtn.info/
 Switch the sections of “About” and “Portfolio”
 
 Take a screenshot of it
+
+<div style="text-align: center">
+<img src="./10-moved_around.png" width="350px">
+</div>
 </details>
 
 <details open><summary>
