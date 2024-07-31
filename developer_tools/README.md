@@ -106,6 +106,9 @@ Go to https://dev-tools.hbtn.info/
 * All outlined buttons light (`btn-outline-light`) should have `#0020aa` for the text color
 * Screenshot all buttons that changed and merge it to one image
 
+<div style="text-align: center">
+<img src="./4-new_buttons.png" width="350px">
+</div>
 </details>
 
 <details open><summary>
@@ -117,6 +120,10 @@ Go to https://dev-tools.hbtn.info/
 Remove the `div` of the “cake” box in the section Portfolio
 
 Take a screenshot of it
+
+<div style="text-align: center">
+<img src="./5-deleted_elements.png" width="350px">
+</div>
 </details>
 
 <details open><summary>
