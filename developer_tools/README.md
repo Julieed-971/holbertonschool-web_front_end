@@ -260,6 +260,10 @@ Go to https://dev-tools.hbtn.info/
 What is the total weight of the page (with all the elements)?
 
 Take a screenshot of it
+
+<div style="text-align: center">
+<img src="./16-weight.png" width="350px">
+</div>
 </details>
 
 <details open><summary>
@@ -271,6 +275,9 @@ Go to https://dev-tools.hbtn.info/
 What is the number of requests done when accessing this page?
 
 Take a screenshot of it
+<div style="text-align: center">
+<img src="./17-requests.png" width="350px">
+</div>
 </details>
 
 <details open><summary>
@@ -327,6 +334,10 @@ Go to https://dev-tools.hbtn.info/
 What is the notation for `Performance` (for desktop mode and no throttling - also called Lighthouse)?
 
 Take a screenshot of it
+
+<div style="text-align: center">
+<img src="./23-performance_audit.png" width="350px">
+</div>
 </details>
 
 <details open><summary>
