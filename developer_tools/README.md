@@ -207,6 +207,11 @@ Answer file must contain the value in Byte (example: `6144` for 6KB)
 Go to https://dev-tools.hbtn.info/
 
 Under Rendering, change the CSS media type emulation to “print” and take a screenshot of the home page.
+
+<div style="text-align: center">
+<img src="./12-print_version.png" width="350px">
+</div>
+
 </details>
 
 <details open><summary>
