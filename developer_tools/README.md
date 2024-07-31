@@ -58,7 +58,7 @@ Go to https://dev-tools.hbtn.info/
 Change the background-color of the body to use #`4233bd` Take a screenshot of the `PORTFOLIO` section.
 
 <div style="text-align: center">
-<img src="./1-change_bg_color.png" width="350px">
+<img src="./1-change_bg_color.png" width="650px">
 </div>
 </details>
 
@@ -73,7 +73,7 @@ Go to https://dev-tools.hbtn.info/
 Force the hover state of the “cake” block in the section Portfolio Take a screenshot of it
 
 <div style="text-align: center">
-<img src="./2-pathways_menu.png" width="350px">
+<img src="./2-pathways_menu.png" width="650px">
 </div>
 </details>
 
@@ -107,7 +107,7 @@ Go to https://dev-tools.hbtn.info/
 * Screenshot all buttons that changed and merge it to one image
 
 <div style="text-align: center">
-<img src="./4-new_buttons.png" width="350px">
+<img src="./4-new_buttons.png" width="650px">
 </div>
 </details>
 
@@ -122,7 +122,7 @@ Remove the `div` of the “cake” box in the section Portfolio
 Take a screenshot of it
 
 <div style="text-align: center">
-<img src="./5-deleted_elements.png" width="350px">
+<img src="./5-deleted_elements.png" width="650px">
 </div>
 </details>
 
@@ -185,7 +185,7 @@ Switch the sections of “About” and “Portfolio”
 Take a screenshot of it
 
 <div style="text-align: center">
-<img src="./10-moved_around.png" width="350px">
+<img src="./10-moved_around.png" width="650px">
 </div>
 </details>
 
@@ -209,7 +209,7 @@ Go to https://dev-tools.hbtn.info/
 Under Rendering, change the CSS media type emulation to “print” and take a screenshot of the home page.
 
 <div style="text-align: center">
-<img src="./12-print_version.png" width="350px">
+<img src="./12-print_version.png" width="650px">
 </div>
 
 </details>
@@ -262,7 +262,7 @@ What is the total weight of the page (with all the elements)?
 Take a screenshot of it
 
 <div style="text-align: center">
-<img src="./16-weight.png" width="350px">
+<img src="./16-weight.png" width="650px">
 </div>
 </details>
 
@@ -276,7 +276,7 @@ What is the number of requests done when accessing this page?
 
 Take a screenshot of it
 <div style="text-align: center">
-<img src="./17-requests.png" width="350px">
+<img src="./17-requests.png" width="650px">
 </div>
 </details>
 
@@ -336,7 +336,7 @@ What is the notation for `Performance` (for desktop mode and no throttling - als
 Take a screenshot of it
 
 <div style="text-align: center">
-<img src="./23-performance_audit.png" width="350px">
+<img src="./23-performance_audit.png" width="650px">
 </div>
 </details>
 
@@ -349,6 +349,9 @@ Go to https://dev-tools.hbtn.info/
 How many static assets need a better cache policy?
 
 Take a screenshot of it
+<div style="text-align: center">
+<img src="./24-static_assets_audit.png" width="650px">
+</div>
 </details>
 
 <details open><summary>
@@ -403,6 +406,10 @@ Go to https://dev-tools.hbtn.info/
 Which `<a>` links don’t have enough text description?
 
 Take a screenshot of it
+<div style="text-align: center">
+<img src="./28-unclear_desc.png" width="650px">
+</div>
+
 </details>
 
 <details open><summary>
@@ -418,6 +425,10 @@ The `sources` panel allow you to edit files, add breakpoints to analyse your Jav
 * Run the code
 * Take a screenshot of the result in your console
 
+
+<div style="text-align: center">
+<img src="./29-how_many_colors.png" width="650px">
+</div>
 </details>
 
 <details open><summary>
@@ -429,6 +440,9 @@ Go to https://dev-tools.hbtn.info/
 Block all CSS requests
 
 Take a screenshot of it
+<div style="text-align: center">
+<img src="./30-no_css.png" width="650px">
+</div>
 </details>
 
 <details open><summary>
@@ -471,4 +485,8 @@ Go to https://dev-tools.hbtn.info/
 When does the SSL certificate expire?
 
 Take a screenshot of it
+
+<div style="text-align: center">
+<img src="./34-ssl_expiration.png" width="650px">
+</div>
 </details>
