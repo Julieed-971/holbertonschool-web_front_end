@@ -1,0 +1,18 @@
+/*Assign font size and colors using extend style */
+%info-shared {
+	font-size: 12px;
+}
+
+.info {
+	@extend %info-shared;
+}
+
+.success {
+	@extend %info-shared;
+	color: #00FF00;
+}
+
+.warning {
+	@extend %info-shared;
+	color: #FF0000;
+}
