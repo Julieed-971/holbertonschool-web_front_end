@@ -1,0 +1,6 @@
+/* Assign colors using nested declarations */
+body {
+	color: #3D3D3D; 
+	body > .red {
+		color: #FF0000; }
+}
