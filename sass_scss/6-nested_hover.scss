@@ -1,0 +1,7 @@
+/*Assign colors depending on the hover state using declaration */
+button {
+	color: #FF0000;
+	&:hover {
+		color: #00FF00
+	}
+}
