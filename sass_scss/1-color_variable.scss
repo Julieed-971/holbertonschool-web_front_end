@@ -1,7 +1,10 @@
 /* Variable that assigns the text color #3D3D3D to the body and p */
 
-$text_color: #3D3D3D;
+$text-color: #3D3D3D;
 
-.body, .p {
-	color: $text_color;
+body {
+	color: $text-color;
+}
+p {
+	color: $text-color;
 }
