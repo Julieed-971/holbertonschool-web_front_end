@@ -1,0 +1,11 @@
+/*Assign font size to various tag using nested declaration */
+body {
+	font-size: 14px; 
+	h1 {
+		font-size: 16px; 
+		.smaller {
+			font-size: 12px; 
+		}
+	}
+}
+	
