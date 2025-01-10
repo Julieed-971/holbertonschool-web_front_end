@@ -555,15 +555,15 @@
 
   /* Post
     ============================= */
-  .main-article .container .post {
+  .post {
     display: flex;
   }
 
-  .main-article .container .post .post-content {
+  .post .post-content {
     width: 100%;
   }
 
-  .main-article .container .post .post-aside {
+  .post .post-aside {
     order: -1;
     min-width: 20%;
   }
