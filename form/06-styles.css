@@ -159,7 +159,7 @@
     background: var(--color-primary);
   }
 
-  .button-primary {
+  .button-primary:hover {
     color: var(--color-primary);
     background: var(--color-white);
   }
