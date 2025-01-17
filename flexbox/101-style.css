@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: last baseline;
+  height: 15vh;
+}
+
+.box {
+  color: #FFFFFF;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box1, .box5 {
+  flex-basis: 9%;
+  font-size: 1.5vw;
+  aspect-ratio: 1 / 0.65;
+}
+
+.box2, .box4 {
+  flex-basis: 12%;
+  font-size: 3vw;
+  aspect-ratio: 1 / 0.65;
+}
+
+.box3 {
+  flex-basis: 20%;
+  font-size: 6vw;
+  aspect-ratio: 1 / 0.6;
+}
+
+.box1 {background-color: #20cb6a;}
+.box2 {background-color: #2d97d9;}
+.box3 {background-color: #374d63;}
+.box4 {background-color: #9c55b8;}
+.box5 {background-color: #e57d05;}
