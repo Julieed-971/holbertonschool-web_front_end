@@ -32,7 +32,22 @@ In this project, we learn about creating responsive design
 
 ### Task 0. Fix the hero banner
 ### Task 1. Make the container flexible
-### Task 2. Fix layout issues
+
+
+<details open><summary>
+
+### Task 2. Fix layout issues</summary>
+
+Add media queries to adapt to different screen size.
+
+<div style="text-align: center">
+<img src="./images/screenshots/task2.png" width="650px">
+<img src="./images/screenshots/task2_1.png" width="650px">
+<img src="./images/screenshots/task2_2.png" width="650px">
+
+</div>
+</details>
+
 ### Task 3. Generate images with responsive breakpoints
 ### Task 4. Create the mobile icon and hide the menu
 ### Task 5. Hamburger!
