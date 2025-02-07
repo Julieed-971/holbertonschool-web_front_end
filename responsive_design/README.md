@@ -36,7 +36,9 @@ In this project, we learn about creating responsive design
 
 <details open><summary>
 
-### Task 2. Fix layout issues</summary>
+### Task 2. Fix layout issues
+
+</summary>
 
 Add media queries to adapt to different screen size.
 
