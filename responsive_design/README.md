@@ -40,9 +40,12 @@ In this project, we learn about creating responsive design
 
 Add media queries to adapt to different screen size.
 
+<p><bold>Rendering on wide screen</bold></p>
 <div style="text-align: center">
-<img src="./images/screenshots/task2.png" width="650px">
+
 <img src="./images/screenshots/task2_1.png" width="650px">
+
+<p><bold>Rendering on screen with max-width: 767px</bold></p>
 <img src="./images/screenshots/task2_2.png" width="650px">
 
 </div>
