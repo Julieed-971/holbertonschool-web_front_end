@@ -72,7 +72,21 @@ Create the mobile icon and hide the menu.
 </div>
 </details>
 
+<details close><summary>
+
 ### Task 5. Hamburger!
+
+</summary>
+
+Create an “hamburger” icon just with CSS.
+<p><strong>Rendering of the hamburger on max-width: 767px</strong></p>
+<div style="text-align: center">
+
+<img src="./images/screenshots/task5.png" width="650px">
+
+</div>
+</details>
+
 ### Task 6. Add the behavior based on menu-btn state
 ### Task 7. Make the font size responsive
 ### Task 8. Improve the "Works" section
