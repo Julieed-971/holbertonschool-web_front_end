@@ -34,7 +34,8 @@ In this project, we learn about creating responsive design
 ### Task 1. Make the container flexible
 
 
-<details open><summary>
+<details close>
+<summary>
 
 ### Task 2. Fix layout issues
 
@@ -55,7 +56,7 @@ Add media queries to adapt to different screen size.
 
 ### Task 3. Generate images with responsive breakpoints
 
-<details open><summary>
+<details close><summary>
 
 ### Task 4. Create the mobile icon and hide the menu
 
