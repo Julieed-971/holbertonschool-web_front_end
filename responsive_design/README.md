@@ -54,7 +54,23 @@ Add media queries to adapt to different screen size.
 </details>
 
 ### Task 3. Generate images with responsive breakpoints
+
+<details open><summary>
+
 ### Task 4. Create the mobile icon and hide the menu
+
+</summary>
+
+Create the mobile icon and hide the menu.
+
+<p><strong>Rendering on screen with max-width: 767px, the check box is the input</strong></p>
+<div style="text-align: center">
+
+<img src="./images/screenshots/task4.png" width="650px">
+
+</div>
+</details>
+
 ### Task 5. Hamburger!
 ### Task 6. Add the behavior based on menu-btn state
 ### Task 7. Make the font size responsive
