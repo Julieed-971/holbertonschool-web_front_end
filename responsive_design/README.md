@@ -120,7 +120,19 @@ Add the behavior based on menu-btn state.
 </details>
 
 ### Task 7. Make the font size responsive
+
+<details close><summary>
+
 ### Task 8. Improve the "Works" section
+
+<p><strong>Rendering on screen of max-width: 767px</strong></p>
+<div style="text-align: center">
+
+<img src="./images/screenshots/task8.png" width="650px">
+
+</div>
+</details>
+
 ### Task 9. Improve the "Footer" section
 ### Task 10. Fix the top header background
 
