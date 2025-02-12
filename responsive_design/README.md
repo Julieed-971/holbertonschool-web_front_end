@@ -79,6 +79,7 @@ Create the mobile icon and hide the menu.
 </summary>
 
 Create an “hamburger” icon just with CSS.
+
 <p><strong>Rendering of the hamburger on max-width: 767px</strong></p>
 <div style="text-align: center">
 
@@ -87,7 +88,37 @@ Create an “hamburger” icon just with CSS.
 </div>
 </details>
 
+<details close><summary>
+
 ### Task 6. Add the behavior based on menu-btn state
+</summary>
+
+Add the behavior based on menu-btn state.
+
+<p><strong>Rendering on screen with max-width: 767px, when the input is unchecked the menu is not displayed</strong></p>
+<div style="text-align: center">
+
+<img src="./images/screenshots/task6_1.png" width="650px">
+
+</div>
+</details>
+
+<p><strong>Rendering on screen with max-width: 767 px, when input is checked the menu block is displayed</strong></p>
+<div style="text-align: center">
+
+<img src="./images/screenshots/task6_2.png" width="650px">
+
+</div>
+</details>
+
+<p><strong>Rendering on desktop screen, menu icon is not visible</strong></p>
+<div style="text-align: center">
+
+<img src="./images/screenshots/task6_3.png" width="650px">
+
+</div>
+</details>
+
 ### Task 7. Make the font size responsive
 ### Task 8. Improve the "Works" section
 ### Task 9. Improve the "Footer" section
