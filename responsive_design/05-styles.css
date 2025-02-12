@@ -292,13 +292,20 @@
   }
 
   @media (max-width: 767px) {
+    :root {
+      --nav-item-margin: 0;
+    }
+    
     .navbar-menu {
       display: none;
       flex: 1;
     }
 
-    :root {
-      --nav-item-margin: 0;
+    .header .nav {
+      flex-direction: column;
+      overflow: hidden;
+      max-height: 0;
+      transition: max-height .2s ease-out;
     }
   }
   
@@ -316,13 +323,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-  }
-
-  .header .nav {
-    flex-direction: column;
-    overflow: hidden;
-    max-height: 0;
-    transition: max-height .2s ease-out;
   }
 
   .header .menu-icon {
