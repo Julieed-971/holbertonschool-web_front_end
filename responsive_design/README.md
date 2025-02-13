@@ -101,7 +101,6 @@ Add the behavior based on menu-btn state.
 <img src="./images/screenshots/task6_1.png" width="650px">
 
 </div>
-</details>
 
 <p><strong>Rendering on screen with max-width: 767 px, when input is checked the menu block is displayed</strong></p>
 <div style="text-align: center">
@@ -109,7 +108,6 @@ Add the behavior based on menu-btn state.
 <img src="./images/screenshots/task6_2.png" width="650px">
 
 </div>
-</details>
 
 <p><strong>Rendering on desktop screen, menu icon is not visible</strong></p>
 <div style="text-align: center">
