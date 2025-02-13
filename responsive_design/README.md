@@ -122,6 +122,7 @@ Add the behavior based on menu-btn state.
 <details close><summary>
 
 ### Task 8. Improve the "Works" section
+</summary>
 
 <p><strong>Rendering on screen of max-width: 767px</strong></p>
 <div style="text-align: center">
@@ -135,6 +136,7 @@ Add the behavior based on menu-btn state.
 <details close><summary>
 
 ### Task 9. Improve the "Footer" section
+</summary>
 
 <p><strong>Rendering on screen of max-width: 767px</strong></p>
 <div style="text-align: center">
@@ -147,6 +149,7 @@ Add the behavior based on menu-btn state.
 <details close><summary>
 
 ### Task 10. Fix the top header background
+</summary>
 
 <p><strong>Rendering of header and section-hero class elements</strong></p>
 <div style="text-align: center">
