@@ -146,7 +146,17 @@ Add the behavior based on menu-btn state.
 </div>
 </details>
 
+<details close><summary>
+
 ### Task 10. Fix the top header background
+
+<p><strong>Rendering of header and section-hero class elements</strong></p>
+<div style="text-align: center">
+
+<img src="./images/screenshots/task10.png" width="650px">
+
+</div>
+</details>
 
 ## Author
 
