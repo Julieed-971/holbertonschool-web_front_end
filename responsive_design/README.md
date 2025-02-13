@@ -133,7 +133,19 @@ Add the behavior based on menu-btn state.
 </div>
 </details>
 
+
+<details close><summary>
+
 ### Task 9. Improve the "Footer" section
+
+<p><strong>Rendering on screen of max-width: 767px</strong></p>
+<div style="text-align: center">
+
+<img src="./images/screenshots/task9.png" width="650px">
+
+</div>
+</details>
+
 ### Task 10. Fix the top header background
 
 ## Author
