@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="00-styles.css">
   </head>
   <body class="article-page">
-
   <!-- Skip links -->
   <nav aria-label="Skip links">
     <ul class="off-screen">
@@ -40,7 +39,7 @@
           <label class="menu-icon" for="menu-btn">
             <span class="navicon"></span>
           </label>
-          <nav class="navbar-menu">
+          <nav class="navbar-menu" id="a11y-primary-nav" tabindex="-1">
             <ul class="nav">
               <li class="nav-item">
                 <a href="/" class="nav-link">Home</a>
@@ -81,10 +80,8 @@
         </div>
       </div>
     </header>
-
     <!-- Main -->
-    <main>
-
+    <main id="a11y-main-content" tabindex="-1">
       <!-- Hero section -->
       <header class="section-hero hero-article" data-section-theme="dark" style="background-image: url('../images/pic-article-02.jpg')">
         <div class="container">
@@ -260,9 +257,7 @@
           </section>
         </div>
       </div>
-
     </main>
-
     <!-- Footer -->
     <footer class="footer" data-section-theme="dark">
       <div  class="container">
