@@ -399,6 +399,9 @@ Build this responsive web page:
     - The `div` is able to make the `table` responsive with a break at `992px`
     - The `table` has “dark” style and hover on rows
 
+Rendering of my page: 
+
+<img src="./Screenshots/chemicals.gif">
 
 ### Task 3. Cards
 
