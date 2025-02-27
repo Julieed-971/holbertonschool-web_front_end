@@ -1,6 +1,8 @@
 # <p align="center">Bootstrap</p>
 
+<p align="center">
 <img src="./Images/logo.png" width="500px">
+</p>
 
 Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS and JavaScript design templates for typography, forms, buttons, navigation, and other interface components.
 
@@ -85,6 +87,9 @@ Your final page must look like this:
 
 <img src="./Images/reboot.jpg" width="500px">
 
+My page rendering: 
+
+<img src="./Screenshots/0.png" width="500px">
 
 
 ### Task 1. Blocks
@@ -210,6 +215,10 @@ For all cells of all rows:
 - Each cell has the same width (~16% of the screen)
 - Screen >= 768px: display like 3 columns in one line with the space between the first and middle cell 2 times bigger than the space between the middle cell and the last cell
 - Screen < 768px: display like 3 lines in one column
+
+Rendering of my page:
+
+<img src="./Screenshots/Peek 27-02-2025 15-25.gif">
 
 ### Task 2. Table of chemical elements
 
