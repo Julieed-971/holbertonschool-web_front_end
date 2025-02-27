@@ -726,6 +726,9 @@ Build this responsive web page:
     - have light border on the bottom and left
     - have some padding on the 4 directions
 
+My page rendering: 
+
+<img src="./Screenshots/title.gif">
 
 ### Task 6. Overwrite CSS
 

@@ -9,13 +9,13 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     </head>
     <body>
-        <h1>Small title</h1>
-        <h1>Big title</h1>
+        <h1 class="d-block d-md-none">Small title</h1>
+        <h1 class="d-none d-md-block">Big title</h1>
 
-        <div>
-            <div>Left</div>
-            <div>Middle</div>
-            <div>Right</div>
+        <div class="container col-md-11 col-12 bg-info p-1 border border-info rounded d-flex align-items-center">
+            <div class="col-1 mr-auto text-light border-bottom border-right border-light p-3 align-self-center">Left</div>
+            <div class="col-1 d-md-block d-none m-auto text-light border-bottom border-right border-left border-light p-3 shadow">Middle</div>
+            <div class="col-1 ml-auto text-light border-bottom border-right border-light p-3">Right</div>
         </div>
 
     </body>
