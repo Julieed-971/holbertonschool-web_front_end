@@ -539,6 +539,10 @@ Build this responsive web page:
         - Each items of the `form` are grouped
         - The final rendering of the form must be the same as the screen (label on the left, color style, etc..)
 
+Final rendering of my page:
+
+<img src="./Screenshots/code_pen.gif">
+
 ### Task 4. Bob Dylan
 
 From this HTML:
