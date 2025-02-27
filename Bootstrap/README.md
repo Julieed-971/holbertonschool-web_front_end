@@ -657,6 +657,10 @@ Build this responsive web page:
     - The list of discs has a grouped layout
     - Each disc name has a link that extends or codllapses description
 
+My page rendering: 
+
+<img src="./Screenshots/bob.gif">
+
 ### Task 5. Show/Hide - screen size
 
 From this HTML:
