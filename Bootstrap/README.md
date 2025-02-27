@@ -369,7 +369,10 @@ From this HTML:
 ```
 
 Build this responsive web page:
+
 <img src="./Images/responsive.png" width="500px">
+
+
 <img src="./Images/2-index.gif" width="500px">
 
 #### Requirements:
@@ -692,7 +695,7 @@ Build this responsive web page:
 - You are not allow to define any styling in a CSS file, in `head` or inline - only Bootstrap classes
 - You can not change the HTML structure - only adding classes is allowed
 
-#### Behaviors/styles:
+#### Behaviors/styles:
 
 - `Big title` is displayed only for width screen > 768px
 - `Small title` is displayed only for width screen <= 768px
