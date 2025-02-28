@@ -873,6 +873,10 @@ Create the custom stylesheet `6-styles.css` to match this layout.
 - Card (card container, but also header/footer) has border color set to `#E0003C` and radius to `1rem`
 - `.text-muted` has text color set to `#8C8C8C`
 
+Rendering of my page:
+
+<img src="./Screenshots/pricing.gif">
+
 ## Author
 
 Julie Dedieu <julie.dedieu1@gmail.com>
