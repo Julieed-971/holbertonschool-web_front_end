@@ -23,12 +23,6 @@
     color: #FFFFFF;
 }
 
-* a,
-* a:hover,
-* a:focus {
-    color: #E0003C;
-}
-
 a.text-dark:hover,
 a.text-dark:focus {
     color: #E0003C !important;
@@ -38,7 +32,6 @@ a.text-dark:focus {
 .card {
     border: 1px solid #E0003C;
     border-radius: 1rem;
-    overflow: hidden;
 }
 
 .card-header {
@@ -47,7 +40,7 @@ a.text-dark:focus {
 }
 
 .card-header:first-child {
-    border-radius: calc(1rem - 1 px) calc(1rem - 1px) 0 0;
+    border-radius: calc(1rem - 1px) calc(1rem - 1px) 0 0;
 }
 
 .border-bottom {
