@@ -52,6 +52,12 @@ How to test
 - Run `welcome('Holberton', 'School')`; should prompt an alert with this content: `Welcome Holberton School!`
 - `alert(fullName)`, should return a reference error `fullName is not defined`
 
+**My results:** 
+
+<img src="./Images/wlcmalert.png">
+
+<img src="./Images/alert_error.png">
+
 </details>
 
 <details close><summary>
