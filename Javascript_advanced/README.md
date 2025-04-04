@@ -266,6 +266,17 @@ Clicking the `Dark mode` button should change the web page to look something lik
 Clicking the `Scream mode` button should change the web page to look something like this:
 <img src="./Images/scream.png">
 
+
+My results:
+
+<img src="./Images/chngmode1.png">
+
+<img src="./Images/spookyMode.png">
+
+<img src="./Images/darkMode.png">
+
+<img src="./Images/screamMode.png">
+
 </details>
 
 <details close><summary>
