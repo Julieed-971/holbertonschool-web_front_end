@@ -175,6 +175,9 @@ Should return
     4
     10
 
+My results: 
+
+<img src="./Images/closureloop.png">
 </details>
 
 <details close><summary>
