@@ -221,6 +221,9 @@ Should display in the console:
     2
     1020
 
+My results:
+
+<img src="./Images/maths.png">
 
 </details>
 
