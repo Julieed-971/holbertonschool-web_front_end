@@ -91,6 +91,14 @@ Requirements:
 
 - Running the script should display three popups one by one with the text `Welcome`, `Welcome Holberton`, and `Welcome Holberton!`
 
+My results:
+
+<img src="./Images/wlcm4.png">
+
+<img src="./Images/wlcmhbtn.png">
+
+<img src="./Images/wlcmhbtn!.png">
+
 </details>
 
 <details close><summary>
@@ -123,6 +131,17 @@ Should display three alerts like below:
 <img src="./Images/wlcm1.png"></img>
 <img src="./Images/wlcm2.png"></img>
 <img src="./Images/wlcm3.png"></img>
+
+
+My results: 
+
+<img src="./Images/wlcmclosure.png">
+
+<img src="./Images/guillaume.png">
+
+<img src="./Images/alex.png">
+
+<img src="./Images/fred.png">
 
 </details>
 
