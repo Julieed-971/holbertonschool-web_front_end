@@ -315,6 +315,9 @@ Create one variable named `draco`, that is an instance of `studentHogwarts`:
         Harry: 4
         Draco: -2
 
+My results:
+
+<img src="./Images/hogwarts.png">
 
 </details>
 
