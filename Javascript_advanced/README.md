@@ -346,6 +346,11 @@ Write the following commands in the following order:
         End of the loop printing
         Final code block to be executed
 
+My results: 
+
+<img src="./Images/timeout1.png">
+
+<img src="./Images/timeout2.png">
 
 </details>
 
