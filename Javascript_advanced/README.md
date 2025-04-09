@@ -396,6 +396,9 @@ In the main part of the code:
         12323 has been fully processed
         All the orders have been processed
 
+My results:
+
+<img src="./Images/processPayment.png">
 
 </details>
 
