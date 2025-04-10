@@ -440,6 +440,9 @@ Requirements:
 
 - Your code should display something in the range of `Execution time of calculating prime numbers 100 times was 40.865000002551824 milliseconds.`
 
+My results: 
+
+<img src="./Images/prime100.png">
 
 </details>
 
