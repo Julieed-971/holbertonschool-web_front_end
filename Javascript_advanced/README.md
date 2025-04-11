@@ -462,6 +462,9 @@ Requirements:
 - Your code should display something in the range of `Execution time of calculating prime numbers 100 times was 0.03999999910593033 milliseconds.`
 - Use `setTimeout` keyword to change the stack order
 
+My results:
+
+<img src="./Images/primeSetTimeOut.png">
 
 </details>
 
@@ -478,6 +481,10 @@ Create an object named `roomDimensions` with the following three attributes:
 - `getArea`: function that returns the surface area of a the object using the `width` and `length`
 
 Create a variable named `boundGetArea`, that will bind the object `roomDimensions` to the `getArea` function
+
+My results:
+
+<img src="./Images/binding.png">
 
 </details>
 
