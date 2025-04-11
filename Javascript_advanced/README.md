@@ -517,6 +517,9 @@ Call the function with the string `Welcome`
 
 - Calling `bindLogWelcomeUser('Hello');` should return `Hello, Guillaume. Your occupation is: Engineer`
 
+My results: 
+
+<img src="./Images/user.png">
 
 </details>
 
@@ -546,7 +549,9 @@ Call `queryWikipedia` with `createElement` as callback
 - Use vanilla javascript to run the Ajax query (no jQuery or other framework)
 - You must not call `createElement` within `queryWikipedia` directly
 
+My results:
 
+<img src="./Images/XMLHTTPRequest.png">
 </details>
 
 ## Author
