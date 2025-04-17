@@ -59,8 +59,15 @@ In this project, we learn about Advanced jQuery
 
 </details>
 
+<details close><summary>
 
 1. `Creating a DOM element`
+
+</summary>
+
+<img src="./img/1.png">
+
+</details>
 
 2. `Creating multiple DOM elements at once`
 
