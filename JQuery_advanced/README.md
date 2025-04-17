@@ -77,7 +77,7 @@ In this project, we learn about Advanced jQuery
 12. `Delete query`
 
 
-## Author
+## Author
 
 
 Julie Dedieu <julie.dedieu1@gmail.com>
