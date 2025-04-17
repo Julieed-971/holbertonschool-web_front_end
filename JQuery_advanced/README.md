@@ -49,8 +49,16 @@ In this project, we learn about Advanced jQuery
 
 ## Mandatory Tasks
 
+<details close><summary>
   
 0. `Setup your dev environment`
+
+</summary>
+
+<img src="./img/0.png">
+
+</details>
+
 
 1. `Creating a DOM element`
 
