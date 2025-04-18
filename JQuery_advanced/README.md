@@ -69,7 +69,15 @@ In this project, we learn about Advanced jQuery
 
 </details>
 
+<details close><summary>
+
 2. `Creating multiple DOM elements at once`
+
+</summary>
+
+<img src="./img/2.png">
+
+</details>
 
 3. `Chain DOM elements`
 
