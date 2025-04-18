@@ -79,7 +79,15 @@ In this project, we learn about Advanced jQuery
 
 </details>
 
+<details close><summary>
+
 3. `Chain DOM elements`
+
+</summary>
+
+<img src="./img/3.png">
+
+</details>
 
 4. `HTML function`
 
