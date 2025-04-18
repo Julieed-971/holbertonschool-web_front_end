@@ -89,7 +89,15 @@ In this project, we learn about Advanced jQuery
 
 </details>
 
+<details close><summary>
+
 4. `HTML function`
+
+</summary>
+
+<img src="./img/4.png">
+
+</details>
 
 5. `Click attribute and remove function`
 
