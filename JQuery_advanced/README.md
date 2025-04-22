@@ -112,7 +112,28 @@ In this project, we learn about Advanced jQuery
 
 </details>
 
+<details close><summary>
+
 6. `Val, before, and prepend functions`
+
+</summary>
+
+<img src="./img/6-1.png">  
+
+
+<img src="./img/6-2.png">  
+
+
+<img src="./img/6-3.png"> 
+
+
+<img src="./img/6-4.png"> 
+
+
+<img src="./img/6-5.png"> 
+
+</details>
+
 
 7. `Query - Setup your dev environment`
 
