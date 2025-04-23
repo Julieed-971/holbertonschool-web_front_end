@@ -134,8 +134,18 @@ In this project, we learn about Advanced jQuery
 
 </details>
 
+<details close><summary>
 
 7. `Query - Setup your dev environment`
+
+</summary>
+
+<img src="./img/7-1.png">
+
+<img src="./img/7-2.png">
+
+</details>
+
 
 8. `Pagination`
 
