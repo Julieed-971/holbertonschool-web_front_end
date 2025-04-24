@@ -185,6 +185,10 @@ In this project, we learn about Advanced jQuery
 
 </summary>
 
+<img src="./img/11-1.png">
+
+<img src="./img/11-2.png">
+
 </details>
 
 <details close><summary>
