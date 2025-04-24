@@ -169,12 +169,31 @@ In this project, we learn about Advanced jQuery
 
 </details>
 
+<details close><summary>
+
 10. `Another Get API`
+
+</summary>
+
+<img src="./img/10.png">
+
+</details>
+
+<details close><summary>
 
 11. `Post query`
 
+</summary>
+
+</details>
+
+<details close><summary>
+
 12. `Delete query`
 
+</summary>
+
+</details>
 
 ## Author
 
