@@ -146,10 +146,28 @@ In this project, we learn about Advanced jQuery
 
 </details>
 
+<details close><summary>
 
 8. `Pagination`
 
+</summary>
+
+<img src="./img/8.png">
+
+</details>
+
+<details close><summary>
+
 9. `Wrap/unwrap`
+
+</summary>
+
+<img src="./img/9-1.png">
+
+<img src="./img/9-2.png">
+
+
+</details>
 
 10. `Another Get API`
 
