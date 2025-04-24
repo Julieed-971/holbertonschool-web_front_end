@@ -197,6 +197,10 @@ In this project, we learn about Advanced jQuery
 
 </summary>
 
+<img src="./img/12-1.png">
+
+<img src="./img/12-2.png">
+
 </details>
 
 ## Author
