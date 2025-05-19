@@ -40,13 +40,17 @@ In this project, we learn about Cookirs and Local Storage
 
 </summary>
 
-<img src="./img/0.png">
+<img src="./img/0-1.png">
+
+<img src="./img/0-2.png">
+
+<img src="./img/0-3.png">
 
 </details>
 
 <details close><summary>
 
-### 1. Read cookie
+### 1. Create cookie with expiration date and specific path
 
 </summary>
 
@@ -56,11 +60,11 @@ In this project, we learn about Cookirs and Local Storage
 
 <details close><summary>
 
-###  2. Creating multiple DOM elements at once
+### 2. Read cookie
 
 </summary>
 
-<img src="./img/2.png">
+<img src="./img/1.png">
 
 </details>
 
@@ -76,7 +80,7 @@ In this project, we learn about Cookirs and Local Storage
 
 <details close><summary>
 
-###  4. Use js-cookie
+### 4. Use js-cookie
 
 </summary>
 
