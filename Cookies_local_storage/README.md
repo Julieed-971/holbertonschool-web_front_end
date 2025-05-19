@@ -64,7 +64,7 @@ In this project, we learn about Cookirs and Local Storage
 
 </summary>
 
-<img src="./img/1.png">
+<img src="./img/2.png">
 
 </details>
 
