@@ -39,10 +39,12 @@
             const displayCart = () => {
                 // If the local storage does not contain any item, this function does not do anything
                 // If the local storage contains any item, it should display the message You previously had X items in your cart in a p element that you can append to the body
-                const numberOfItems = localStorage.length
-                let checkCart = document.createElement("p");
-                checkCart.textContent = "You previously had " + numberOfItems + " items in your cart"
-                document.body.append(checkCart);
+                if (localStorage.length != 0) {
+                    const numberOfItems = localStorage.length
+                    let checkCart = document.createElement("p");
+                    checkCart.textContent = "You previously had " + numberOfItems + " items in your cart"
+                    document.body.append(checkCart);
+                }
             }
 
             const x = document.getElementById("result");
