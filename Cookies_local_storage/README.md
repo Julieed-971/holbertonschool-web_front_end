@@ -78,7 +78,6 @@ In this project, we learn about Cookirs and Local Storage
 
 <img src="./img/3-2.png">
 
-
 </details>
 
 <details close><summary>
@@ -87,7 +86,9 @@ In this project, we learn about Cookirs and Local Storage
 
 </summary>
 
-<img src="./img/4.png">
+<img src="./img/4-1.png">
+
+<img src="./img/4-2.png">
 
 </details>
 
