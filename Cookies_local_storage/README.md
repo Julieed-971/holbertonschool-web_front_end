@@ -120,10 +120,6 @@ In this project, we learn about Cookirs and Local Storage
 
 <img src="./img/6-3.png">
 
-<img src="./img/6-4.png">
-
-<img src="./img/6-5.png">
-
 </details>
 
 <details close><summary>
