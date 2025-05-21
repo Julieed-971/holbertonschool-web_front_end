@@ -128,9 +128,7 @@ In this project, we learn about Cookirs and Local Storage
 
 </summary>
 
-<img src="./img/7-1.png">
-
-<img src="./img/7-2.png">
+<img src="./img/7.gif">
 
 </details>
 
